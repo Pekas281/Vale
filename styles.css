@@ -36,3 +36,24 @@ img{
 #fondo{
     background-color: black;
 }
+@media (max-width: 600px){
+    h1{
+        padding-left: 210px;
+    }
+    h2{
+        padding-left: 210px;
+    }
+    h3{
+        padding-left: 210px;
+    }
+    #boton{
+        margin-left: 150px;
+    }
+    #boton2{
+        margin-left: 150px;
+    }
+    img{
+      padding-left: 0px;
+    }
+
+}
